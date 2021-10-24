@@ -1,5 +1,5 @@
 import streamlit as st
-import dimod
+from aneal import *
 
 # メイン画面の作り込み
 "# エネルギー使用のスケジュール管理"
